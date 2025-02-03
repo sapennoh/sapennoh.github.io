@@ -1,0 +1,34 @@
+body{
+    background-color: #88a17a;
+    border: 10px solid #f2e5c2;
+    padding: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+table, th, td {
+    border: 1px solid #f2e5c2;
+}
+tr{
+    color: #f2e5c2;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#menu{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #405435;
+}
+li a{
+    display:block;
+    float:left;
+    color:#f2e5c2;
+    padding:12px;
+}
+a:hover{
+    background-color: #1b2714;
+}
